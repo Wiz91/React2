@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9d0586ba.css","mappings":"AAAA,OAEI,sBAAwB,CADxB,SAEJ","sources":["index.css"],"sourcesContent":[".mycss{\r\n    z-index: 1;\r\n    border: black solid thin;\r\n}"],"names":[],"sourceRoot":""}
